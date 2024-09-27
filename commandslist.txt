@@ -717,3 +717,32 @@ crontab -l
 crontab -e
 pwd
 clear
+git clone https://github.com/N1khil0805/training-biz-nikhil.git
+ls
+cd training-biz-nikhil/
+cd
+cd -
+vi script.sh
+chmod u+x script.sh
+ls
+crontab -l
+crontab -r
+crontab -e
+ls
+cat hello.txt
+git remote set-url origin git@github.com:N1khil0805/training-biz-nikhil.git
+git remote -v
+ssh -T git@github.com
+eval "$(ssh-agent -s)"
+ssh -T git@github.com
+git branch --unset-upstream
+git push --set-upstream origin main
+./script.sh
+ls
+cat hello.txt
+ls
+./script.sh
+git remote set-url origin git@github.com:N1khil0805/training-biz-nikhil.git
+./script.sh
+ls
+./script.sh
