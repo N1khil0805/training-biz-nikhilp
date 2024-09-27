@@ -700,3 +700,11 @@ chmod u+x script3.sh
 cd training-biz-nikhilp/
 chmod u+x script3.sh
 crontab -e
+ls
+pwd
+clear
+cat script2.sh
+clear
+cat script3.sh
+cat script2.sh
+clear
