@@ -4408,3 +4408,633 @@ ls
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_ed25519
 ls
+ll
+ls
+pwd
+cd ..
+ll
+ls
+cls
+clear
+sudo -i
+cls
+clear
+ls
+ls ~/.ssh
+cat file.txt
+ls
+cat ~/.ssh/authorized_keys
+sudo adduser new_user
+sudo su - new_user
+clear
+sudo adduser newuser
+sudo adduser newuser --disabled-password
+password newuser
+pass newuser
+passwd newuser
+sudo passwd newuser
+sudo su - newuser
+sudo userdel -r newuser
+sude userdel -r newuser
+sudo userdel -r newuser
+sudo userdel -r new_user
+cls
+clear
+ssh-keygen -y -f ./Downloads/training-biz-keypair.pem
+sudo adduser newuser
+sudo passwd newuser
+sudo su - newuser
+sudo vi /etc/ssh/sshd_config
+sudo service sshd restart
+sudo -
+sudo
+sudo su -
+dir
+ls
+ll
+mkdir .ssh
+cd .ssh
+ls
+cat authorized_keys
+vi authorized_keys 
+cat authorized_keys 
+clear
+cd  .ssh
+ls
+vi authorized_keys
+CLEAR
+clear
+sudo yum update
+java -version
+sudo yum install java-17-openjdk
+java -version
+sudo yum install wget
+wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727161048_94244ab3e89dd533adf75ace02251beb
+wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727161830_cdfd7c08e746cd369067f58e985de4c9
+history
+ls -lh
+ls
+mv 'oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727161830_cdfd7c08e746cd369067f58e985de4c9' oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm.1
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+rm oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm.1
+ls
+sudo yum -y localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+curl -o oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm https://yum.oracle.com/repo/OracleLinux/OL8/latest/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+sudo yum -y localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+subscription-manager list
+sudo su -
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+rm oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm.3
+ls
+rm oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm.2
+ls
+rm oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm.1
+ls
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+rm oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+ls
+sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+ls
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+
+history
+clear
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+sudo yum localinstall  oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls
+sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+free -k
+cls
+clear
+sqlplus
+clear
+pwd
+ls
+cd -
+cd $ORACLE_HOME/
+ls
+cd bin
+pwd
+imp classicmodels/1234 FILE=/home/ec2-user/calssicmodels.dmp
+pwd
+imp classicmodels/1234 FILE=/home/ec2-user/calssicmodels.dmp log=/home/ec2-user/import.log FULL=Y
+ls
+imp classicmodels/1234 FILE=/home/ec2-user/calssicmodels.dmp log=/home/ec2-user/import.log FULL=Y
+imp classicmodels/1234 FILE=/home/ec2-user/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
+history
+clear
+sudo /etc/init.d/oracle-xe-21c configure
+clear
+sqlplus
+clear
+sudo yum install screen
+sudo yum install tmux
+sqlplus
+env | grep ORACLE
+env
+sqlplus
+sudo service oracle-xe-21c start
+lsnrctl status
+sqlplus
+sudo vi ~/.bash_profile
+sqlplus
+grant create session to classicmodels;
+sqlplus
+sudo su -
+sudo bash
+history
+ls
+sudo yum install git
+git clone https://github.com/N1khil0805/training-biz-nikhil.git
+ls
+clear
+systemctl status crond
+sysytem status crom
+sysytem status cron
+sysytemctl status cron
+systemctl status cron
+crontab -l
+ls
+cd training-biz-nikhil
+ls
+ll
+cd
+pwd
+history
+vi create_file.sh
+ls
+crontab -e
+ls
+cat create_file.sh
+.create_file.sh
+./create_file.sh
+sudo ./create_file.sh
+sudo su -
+ls
+cat create_file.sh
+vi create_file.sh
+./create_file.sh
+sudo ./create_file.sh
+ls
+pwd
+cat create_file.sh
+crontab -e
+clear
+service cron status
+sudo su -
+service crond status
+crontab -l
+crontab -r
+crontab -l
+crontab -r
+ls
+rm create_file.sh
+ls
+crontab -e
+ls
+pwd
+cd /home
+ls
+cd
+ls
+cd home
+cd /home
+ls
+cd
+crontab -e
+ls
+cat output.txt
+cd /home/
+ls
+#1727331740
+crontab -l
+#1727331747
+cd /home
+#1727331752
+crontab -l
+#1727331762
+cd
+#1727331765
+ls
+#1727331772
+cat output.txt
+#1727332272
+cat ~/.aws/cli/history
+#1727332279
+history
+#1727332330
+cd ./aws
+#1727332337
+cd /.aws
+#1727332388
+export HISTTIMEFORMAT="%F %T "
+#1727332388
+source ~/.bashrc
+#1727332388
+history > commandslist.txt
+#1727332392
+ls
+#1727332416
+cat commandslist.txt
+#1727332463
+clear
+#1727332531
+ls
+#1727332539
+cd training-biz-nikhil/
+#1727332541
+ls
+#1727332562
+touch aws_cli_history.log
+#1727332563
+ls
+#1727332566
+cd
+#1727332575
+ls
+#1727332579
+pwd
+#1727332594
+crontab -l
+#1727332602
+crontab -r
+#1727332604
+crontab -l
+#1727332613
+crontab -e
+#1727332703
+ls
+#1727332714
+cd training-biz-nikhil
+#1727332716
+ls
+#1727332724
+cat aws_cli_history.log 
+#1727333113
+cd
+#1727333114
+ls
+#1727333136
+cat import.log
+#1727333140
+ls
+#1727333152
+cat output.txt
+#1727333198
+ls
+#1727333201
+rm output.txt 
+#1727333202
+ls
+#1727333215
+cat commandslist.txt 
+#1727333237
+history
+#1727333411
+ls
+#1727333416
+cd training-biz-nikhil/
+#1727333417
+ls
+#1727333421
+cat aws_cli_history.log 
+#1727333431
+crontab -e
+#1727333487
+cd
+#1727333491
+crontab -l
+#1727333497
+cd  training-biz-nikhil/
+#1727333499
+ls
+#1727333502
+cat aws_cli_history.log 
+#1727333530
+history
+#1727333575
+cat aws_cli_history.log 
+#1727333695
+crontab -e
+#1727333766
+ls
+#1727333772
+cat commandslist.txt 
+#1727333943
+crontab -e
+#1727334003
+cat commandslist.txt 
+#1727334145
+crontab -e
+#1727334163
+ls
+#1727334167
+cat commandslist.txt 
+#1727334478
+crontab -e
+#1727334496
+cat commandslist.txt 
+#1727334624
+ls
+#1727334628
+rm commandslist.txt 
+#1727334629
+ls
+#1727334754
+cat commandslist.txt 
+#1727334759
+crontab -e
+#1727335018
+ls
+#1727335020
+cd
+#1727335022
+ls
+#1727335027
+cat com
+#1727335031
+cat commandslist.txt 
+#1727335048
+crontab -l
+#1727335054
+ls
+#1727335072
+rm commandslist.txt 
+#1727335073
+ls
+#1727335219
+cat commandslist.txt 
+#1727335306
+ls
+#1727335310
+cat commandslist.txt 
+#1727335317
+crontab -l
+#1727335320
+crontab -r
+#1727335325
+rm commandslist.txt 
+#1727335327
+ls
+#1727335338
+crontab -e
+#1727335350
+ls
+#1727335399
+cat commandslist.txt 
+#1727336544
+ls
+#1727336548
+cat commandslist.txt 
+#1727336555
+crontab -l
+#1727336558
+craontab -r
+#1727336566
+crontab -r
+#1727336568
+ls
+#1727336573
+rm commandslist.txt 
+#1727336580
+export HISTTIMEFORMAT="%F %T "
+#1727336580
+source ~/.bashrc
+#1727336580
+history > commandslist.txt
+#1727336582
+ls
+#1727336586
+cat commandslist.txt 
+#1727336597
+clear
+#1727336599
+ls
+#1727336600
+clear
+#1727336604
+cat commandslist.txt 
+#1727336644
+clear
+#1727336679
+history >> commandslist.txt
+#1727336681
+ls
+#1727336688
+cat commandslist.txt 
+#1727336706
+clear
+#1727336722
+export HISTTIMEFORMAT="%F %T "
+#1727336722
+source ~/.bashrc
+#1727336722
+history >> commandslist.txt
+#1727336728
+clear
+#1727336731
+ls
+#1727336734
+cat commandslist.txt 
+#1727336743
+clear
+#1727337921
+nano ~/.bashrc
+#1727337942
+vi ~/.bashrc
+#1727337996
+source ~/.bashrc
+#1727338017
+export HISTTIMEFORMAT="%F %T "
+#1727338017
+source ~/.bashrc
+#1727338042
+sudo source ~/.bashrc
+#1727338046
+source ~/.bashrc
+#1727338050
+export HISTTIMEFORMAT="%F %T "
+#1727338061
+sudo su -
+#1727338149
+vi ~/.bashrc
+#1727338167
+history
+#1727338178
+clear
+history
+clear
+cat commandslist.txt 
+ls
+vi ~?.bashrc
+vi ~/.bashrc
+clear
+source ~/.bashrc
+ls
+rm '~?.bashrc'
+ls
+cat commandslist.txt 
+vi ~/.bashrc
+sudo su -
+clear
+aws --version
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+sudo ./aws/install
+clear
+aws --version
+ls
+rm aws
+sudo su -
+ls
+cat commandslist.txt 
+vi commandslist.txt 
+#1727338700
+clear
+#1727338701
+ls
+#1727338706
+cat classicmodels.dmp 
+#1727338714
+clear
+#1727338716
+ls
+#1727338720
+cat commandslist.txt 
+#1727338740
+cat import
+#1727338745
+cat import.log
+#1727338748
+clear
+#1727338763
+export HISTTIMEFORMAT="%F %T "
+#1727338763
+source ~/.bashrc
+#1727338763
+history > commandslist.txt
+#1727338765
+ls
+#1727338769
+cat commandslist.txt
+#1727338772
+clear
+#1727338777
+ls
+#1727338784
+rm awscliv2.zip 
+#1727338786
+ls
+#1727338789
+rmaws
+#1727338793
+rm aws
+#1727338803
+clear
+ls
+cd training-biz-nikhil/
+ls
+vi script.sh
+crontab -l
+crontab -e
+ls
+cat script.sh 
+git init -b main
+crontab -l
+ls
+./script.sh
+chmod u+x 600 ./script.sh 
+chmod u+x ./script.sh 
+./script.sh
+ssh-keygen -t ed25519 -C "pnaganikhil314@gmail.com"
+cat /home/ec2-user/.ssh/id_ed25519.pub
+./script.sh
+git remote set-url origin git@github.com:<N1khil0805>/<training-biz-nikhil>.git
+git remote set-url origin git@github.com:N1khil0805/training-biz-nikhil.git
+git remote -v
+ssh -T git@github.com
+ ./script.sh
+git branch --unset-upstream
+git push --set-upstream origin main
+ ./script.sh
+sudo grep CRON /var/log/cron
+cd
+sudo yum install git bash
+ls
+cd training-biz-nikhil/
+ls
+cat script.sh
+./script.sh
+vi script.sh
+./script.sh
+vi script.sh
+crontab -l
+vi script.sh
+sudo grep CRON /var/log/cron
+git status
+crontab -l
+ls
+vi script.sh 
+crontab -l
+vi script.sh
+crontab -e
+vi script2.sh
+chmod +x ~/training-biz-nikhil/commandslist.txt
+crontab -l
+chmod +x ~/training-biz-nikhil/script2.sh
+vi script2.sh
+ls
+git remote -v
+ssh -T git@github.com
+git branch --unset-upstream
+git push --set-upstream origin main
+vi script2.sh
+crontab -l
+./script2.sh
+vi script2.sh
+ls
+cat script2.sh 
+rm aws_cli_history.log 
+ls
+git add .
+git push origin main
+ls
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+cd
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+cd .ssh
+ls
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+ls
