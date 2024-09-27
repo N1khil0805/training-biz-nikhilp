@@ -715,3 +715,5 @@ crontab -l
 crontab -r
 crontab -l
 crontab -e
+pwd
+clear
