@@ -708,3 +708,10 @@ clear
 cat script3.sh
 cat script2.sh
 clear
+cat script2.sh
+clear
+craontab -l
+crontab -l
+crontab -r
+crontab -l
+crontab -e
