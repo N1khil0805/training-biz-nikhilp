@@ -749,3 +749,4 @@ ls
 clear
 history
 man history
+whatis history
