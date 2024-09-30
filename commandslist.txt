@@ -746,3 +746,6 @@ git remote set-url origin git@github.com:N1khil0805/training-biz-nikhil.git
 ./script.sh
 ls
 ./script.sh
+clear
+history
+man history
