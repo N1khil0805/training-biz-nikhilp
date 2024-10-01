@@ -754,3 +754,4 @@ clear
 ls -l | grep ".txt"
 clear
 free -g
+clear
