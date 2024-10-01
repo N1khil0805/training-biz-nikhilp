@@ -752,3 +752,4 @@ man history
 whatis history
 clear
 ls -l | grep ".txt"
+clear
