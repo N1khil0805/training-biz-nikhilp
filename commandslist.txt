@@ -755,3 +755,22 @@ ls -l | grep ".txt"
 clear
 free -g
 clear
+/
+cd /
+cd
+clear
+ls
+history
+clear
+ls
+cd /
+ls
+ls -a
+sudo su -
+clear
+cd
+clear
+ls
+ls-a
+ls -a
+clear
