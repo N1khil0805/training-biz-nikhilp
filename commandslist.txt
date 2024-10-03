@@ -774,3 +774,6 @@ ls
 ls-a
 ls -a
 clear
+ping google.com
+ping -c 5 google.com
+clear
