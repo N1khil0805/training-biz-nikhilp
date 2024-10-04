@@ -777,3 +777,4 @@ clear
 ping google.com
 ping -c 5 google.com
 clear
+ifconfig
