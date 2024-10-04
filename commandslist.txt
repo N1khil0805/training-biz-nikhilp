@@ -805,3 +805,6 @@ clear
 ls
 crontab -l
 crontab -e
+clear
+crontab -l
+crontab -e
