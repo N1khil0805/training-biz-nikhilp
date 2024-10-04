@@ -779,3 +779,11 @@ ping -c 5 google.com
 clear
 ifconfig
 clear
+sudo yum update -y
+sudo yum install python3 -y
+sudo yum install python3-pip -y
+pip3 install psutil
+vi send_email.py
+python3 send_email.py
+vi send_email.py
+python3 send_email.py
