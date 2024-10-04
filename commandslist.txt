@@ -801,3 +801,7 @@ vi send_email.py
 ls
 crontab -l
 crontab -e
+clear
+ls
+crontab -l
+crontab -e
