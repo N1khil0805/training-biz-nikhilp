@@ -843,3 +843,12 @@ sudo systemctl restart postfix
 sudo systemctl reload postfix
 echo "hello from Me" | sendmail naganikhil897@gmail.com
 mailq
+sudo tail -f /var/log/maillog
+postqueue -f
+sudo tail -f /var/log/maillog
+sudo vi /etc/postfix/main.cf
+sudo systemctl reload postfix
+postqueue -f
+sudo tail -f /var/log/maillog
+nslookup smtp.gmail.com
+sudo postmap /etc/postfix/sasl_passwd 
