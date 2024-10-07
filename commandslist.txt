@@ -836,3 +836,10 @@ echo "hello from Me" | sendmail naganikhil897@gmail.com
 sudo yum install postfix
 echo "hello from Me" | sendmail naganikhil897@gmail.com
 mailq
+sudo systemctl reload postfix
+sudo systemctl enable postfix
+sudo systemctl reload postfix
+sudo systemctl restart postfix
+sudo systemctl reload postfix
+echo "hello from Me" | sendmail naganikhil897@gmail.com
+mailq
