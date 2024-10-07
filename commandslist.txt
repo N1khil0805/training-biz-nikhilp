@@ -812,3 +812,6 @@ clear
 crontab -e
 ls
 vi send_email.py 
+crontab -e
+vi send_email.py 
+crontab -e
