@@ -815,3 +815,7 @@ vi send_email.py
 crontab -e
 vi send_email.py 
 crontab -e
+vi send_email.py 
+python3  send_email.py 
+vi send_email.py 
+python3  send_email.py 
