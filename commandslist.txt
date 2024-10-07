@@ -859,3 +859,11 @@ sudo tail -f /var/log/maillog
 postqueue -f
 sudo tail -f /var/log/maillog
 mailq
+ls
+touch send_mail.sh
+chmod 700 send_mail.sh
+sudo vi send_mail.sh
+send_mail.sh
+./send_mail.sh
+sudo vi send_mail.sh
+crontab -e
