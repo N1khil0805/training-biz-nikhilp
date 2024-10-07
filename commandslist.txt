@@ -852,3 +852,10 @@ postqueue -f
 sudo tail -f /var/log/maillog
 nslookup smtp.gmail.com
 sudo postmap /etc/postfix/sasl_passwd 
+ls /etc/postfix/ 
+sudo systemctl reload postfix
+mailq
+sudo tail -f /var/log/maillog
+postqueue -f
+sudo tail -f /var/log/maillog
+mailq
