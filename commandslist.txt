@@ -879,3 +879,4 @@ ls
 rm payments_csv.csv 
 clear
 ls
+vi payments_csv.csv 
