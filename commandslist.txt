@@ -880,3 +880,7 @@ rm payments_csv.csv
 clear
 ls
 vi payments_csv.csv 
+clear
+vi payments_csv.csv 
+rm payments_csv.csv 
+ls
