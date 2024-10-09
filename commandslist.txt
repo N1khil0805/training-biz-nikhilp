@@ -867,3 +867,7 @@ send_mail.sh
 ./send_mail.sh
 sudo vi send_mail.sh
 crontab -e
+ls
+cd .ssh
+ls
+cat authorized_keys 
