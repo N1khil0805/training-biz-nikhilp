@@ -871,3 +871,11 @@ ls
 cd .ssh
 ls
 cat authorized_keys 
+vi authorized_keys 
+cd
+ls
+rm payments_csv.csv 
+ls
+rm payments_csv.csv 
+clear
+ls
