@@ -892,3 +892,5 @@ scp ec2-user@51.20.71.159:/home/ec2-user/payments_csv.csv C:\Users\nikhil.pabbit
 scp ec2-user@51.20.71.159:/home/ec2-user/payments_csv.csv C:/Users/nikhil.pabbithi/Desktop/payments_updated.csv
 clear
 ls
+vi payments_csv.csv 
+clear
